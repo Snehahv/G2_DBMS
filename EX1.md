@@ -19,18 +19,23 @@ RENAME: This is used to rename an object existing in the database.
 </div>
 
 ## Query:
+
 ### 1) Create a table student with the following fieds rollno,name,age,address,phoneno.
 
 ### SQL QUERY: 
 
 
 ### OUTPUT:
+![image](https://github.com/dineshgl/G2_DBMS/assets/119104131/17ca32e3-9733-4517-8ef8-f5512e982feb)
+
 
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
 
 ### OUTPUT:
+![image](https://github.com/dineshgl/G2_DBMS/assets/119104131/de5643f8-3335-4104-8bbd-9452323e5828)
+
 
 
 ### 3) Drop the student table
